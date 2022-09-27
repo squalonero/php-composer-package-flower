@@ -1,0 +1,20 @@
+{
+    "name": "sqlnr/composer-package",
+    "autoload": {
+        "psr-4": {
+            "Sqlnr\\App\\": "src/"
+        },
+        "files" : [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Mirco Cuccadu",
+            "email": "mirco.cucca@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
