@@ -1,5 +1,6 @@
 {
     "name": "sqlnr/composer-package",
+    "description": "A motivational composer package",
     "autoload": {
         "psr-4": {
             "Sqlnr\\App\\": "src/"

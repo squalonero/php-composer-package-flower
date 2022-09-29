@@ -1,5 +1,5 @@
 <?php
 
 function getvar(){
-    return '<small>helper string</small>';
+    return '<small>A motivational package</small>';
 }
